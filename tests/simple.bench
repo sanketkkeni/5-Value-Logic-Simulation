@@ -1,0 +1,12 @@
+INPUT(A)
+INPUT(B)
+INPUT(C)
+INPUT(D)
+INPUT(E)
+
+OUTPUT(F)
+
+G=AND(A, B)
+H=AND(C, D)
+I=AND(G, H)
+F=AND(I, E)
